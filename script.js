@@ -1,4 +1,4 @@
-const ADMIN_WA = '6283871111124';
+const ADMIN_WA = '6285782023998';
 
 const form = document.getElementById('formRohis');
 const alasan = document.getElementById('alasan');
