@@ -1,9 +1,9 @@
 WEB PENDAFTARAN ROHIS - VERSI WHATSAPP
 
 Nomor tujuan WhatsApp:
-083871111124
+085782023998
 Format internasional di kode:
-6283871111124
+6285782023998
 
 Alur:
 1. Siswa mengisi form.
